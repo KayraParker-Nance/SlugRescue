@@ -6,3 +6,13 @@ The main gameplay will occur in the sanctuary where players can care for and bre
 As the player progresses, more rare slugs and habitats will become available, which will require more care and resources.
 
 The art style will be decided on later; mobile is the initial target platform
+## Scenes
+Sanctuary
+- Map overview of all aquariums
+Aquarium
+- One per habitat
+Dive Report
+- Shows outcomes of expeditions to habitats in danger
+Field Giude
+- Shows discovered species and habitats
+Settings
