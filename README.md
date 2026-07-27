@@ -9,10 +9,14 @@ The art style will be decided on later; mobile is the initial target platform
 ## Scenes
 Sanctuary
 - Map overview of all aquariums
+
 Aquarium
 - One per habitat
+
 Dive Report
 - Shows outcomes of expeditions to habitats in danger
+
 Field Giude
 - Shows discovered species and habitats
+
 Settings
